@@ -1,6 +1,6 @@
-import mongodb from 'mongodb';
-import Collection from 'mongodb/lib/collection';
-import envLoader from './env_loader';
+import mongodb from 'mongodb'
+import Collection from 'mongodb/lib/collection'
+import envLoader from './env_loader'
 
 /**
  * Represents a MongoDB client.
